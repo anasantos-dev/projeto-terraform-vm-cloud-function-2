@@ -51,6 +51,12 @@ No arquivo `variables.tf`, configure as variáveis com os valores apropriados pa
 ## Conclusão
 Essa semana de aprendizado foi muito rica e me deu a oportunidade de explorar diversas áreas de computação em nuvem. Com a prática de ferramentas como Terraform e Google Cloud Functions, entendi a importância da automação e como o desenvolvimento na nuvem pode ser eficiente. Continuarei aprimorando meus conhecimentos para criar projetos mais avançados no futuro.
 
+## Links de acesso
+- **URL "my-cloud-function"** https://europe-west2-acaprofunda.cloudfunctions.net/my-cloud-function
+
+- **"URL "Cloud Function 2"** https://us-west2-acaprofunda.cloudfunctions.net/function-2
+
+
 ## Prints de alguns passos do projeto
 ![Criando Terraform](./imagens/criando%20terra%20form.png)
 

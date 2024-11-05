@@ -1,0 +1,2 @@
+URL da Cloud Function 1: https://europe-west2-acaprofunda.cloudfunctions.net/my-cloud-function
+URL da Cloud Function 2: https://us-west2-acaprofunda.cloudfunctions.net/function-2
